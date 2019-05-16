@@ -1,3 +1,7 @@
+# note
+https://github.com/bglaminc/react-toasts 의 build된 결과 파일을 올린 저장소입니다.
+
+
 [![License](https://img.shields.io/npm/l/react-toasts.svg)](https://www.npmjs.com/package/react-toasts)
 [![Version](https://img.shields.io/npm/v/react-toasts.svg)](https://opensource.org/licenses/ISC)
 
